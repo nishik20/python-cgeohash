@@ -1,0 +1,3 @@
+[submodule "libgeohash"]
+	path = libgeohash
+	url = https://github.com/simplegeo/libgeohash.git
